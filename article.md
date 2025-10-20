@@ -5,7 +5,7 @@
       alt=""
       border="0"
       data-original-height="1075"
-      data-original-width="1894"      src="[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbIoXVsDijKQpNzHSaEf_FNwYWXxV5oBKHudjot3C5_kfRxUypvpBiTvheX_UUs2Hh6bVV5ABBic1RsPqWMcESqdx5y0RoNg0J1mVVPhjfpdKeLWQnIlSPvggIawri3zRQjlF5061iZXjl3TUBxuFyYs_5zSHhD8bNIzCRA5VGcVL673dYEEEpSnc95-33/s1600/Screenshot%202025-09-03%20134132.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuBxBBGnVkIP9-c-ar9G45W6OXs3rDAcmEdK5DC0wD08k1j4rzbayUVV-QB5NxlgocoG0rq_VZAufe5w5BKme9memNP-6ZxHiBa9SYtmZYkNdAA6MYub3WzJ6dS2vRA_ctT1WfKEeqhbBDoLxyDTl9sFYQN0eLZ8063q2pyyYBplCJRCAhEguaGsN7cCAt/s1600/Screenshot%202025-10-19%20124615.png)"
+      data-original-width="1894"      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuBxBBGnVkIP9-c-ar9G45W6OXs3rDAcmEdK5DC0wD08k1j4rzbayUVV-QB5NxlgocoG0rq_VZAufe5w5BKme9memNP-6ZxHiBa9SYtmZYkNdAA6MYub3WzJ6dS2vRA_ctT1WfKEeqhbBDoLxyDTl9sFYQN0eLZ8063q2pyyYBplCJRCAhEguaGsN7cCAt/s1600/Screenshot%202025-10-19%20124615.png"
   />
 </p>
 
